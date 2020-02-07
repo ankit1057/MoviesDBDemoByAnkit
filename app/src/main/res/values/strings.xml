@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoviesDemoByAnkit</string>
+    <string name="tab_text_1">Highest Rated</string>
+    <string name="tab_text_2">Search</string>
+    <string name="tab_text_3">Brad Pitt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="network_error">Failed to fetch movies</string>
+    <string name="no_more_data_to_load">No More Data To Load</string>
+</resources>
